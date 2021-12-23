@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Monoton&display=swap");
+.header-box {
+  background-color: darkcyan;
+  height: 300px;
+  background: url("./pwk.jpg") no-repeat;
+  background-size: 1350px;
+  background-position: rigth -250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-box  h1 {
+    font-family: Monoton;
+    color: #ffffff;
+    background-color: rgba(68,10,46,0.5);
+    width: 50%;
+    text-align: center;
+    letter-spacing: 0.2rem;
+}
